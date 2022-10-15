@@ -6,4 +6,4 @@ icon from Sergei Kokota at [icon-icons](https://icon-icons.com/icon/wifi-router-
 built with [7z SFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
 ## Support
 - Get support via [Discord](https://discord.gg/PbGT9tVWTC)
-- Give support via [PayPal](https://paypal.me/SugoiDogo)
+- Give support via [Ko-Fi](https://ko-fi.com/sugoidogo)
