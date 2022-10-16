@@ -5,4 +5,4 @@ icon from Sergei Kokota at [icon-icons](https://icon-icons.com/icon/wifi-router-
 
 built with [7z SFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
 ## Support
-Support information for all my software is on my [GitHub profile](github.com/sugoidogo)
+Support information for all my software is on my [GitHub profile](https://github.com/sugoidogo)
